@@ -95,7 +95,7 @@ game.setDialogFrame(img`
     .................................
     `)
 scene.setBackgroundColor(9)
-game.showLongText("God of war 2", DialogLayout.Center)
+game.showLongText("God of war 3", DialogLayout.Center)
 mySprite = sprites.create(img`
     . . . . . . f f f f . . . . . . 
     . . . . f f f d d f f f . . . . 
